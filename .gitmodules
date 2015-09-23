@@ -1,0 +1,3 @@
+[submodule "vendor/MaterialSpinner"]
+	path = vendor/MaterialSpinner
+	url = https://github.com/ganfra/MaterialSpinner
