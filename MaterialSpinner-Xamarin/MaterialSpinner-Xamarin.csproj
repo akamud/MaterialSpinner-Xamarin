@@ -53,6 +53,10 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Xamarin.Android.Bindings.targets" />
   <ItemGroup>
-    <LibraryProjectZip Include="Jars\library-release.aar" />
+    <ReferenceJar Include="Jars\library-2.4.0.jar" />
+    <ReferenceJar Include="Jars\appcompat-v7-22.0.0.aar" />
+  </ItemGroup>
+  <ItemGroup>
+    <LibraryProjectZip Include="material-spinner-1.1.0.aar" />
   </ItemGroup>
 </Project>
