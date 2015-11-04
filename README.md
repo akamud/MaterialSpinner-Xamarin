@@ -1,4 +1,5 @@
 # MaterialSpinner-Xamarin
+![](https://raw.githubusercontent.com/akamud/MaterialSpinner-Xamarin/master/art/Icon.png)  
 Xamarin bindings for [MaterialSpinner](https://github.com/ganfra/MaterialSpinner) by [@ganfra](https://github.com/ganfra)
 
 Spinner with Material Design - Down to API 9

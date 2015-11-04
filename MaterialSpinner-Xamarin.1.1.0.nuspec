@@ -8,6 +8,7 @@
         <owners>Mahmoud Ali</owners>
         <licenseUrl>https://raw.githubusercontent.com/akamud/MaterialSpinner-Xamarin/master/LICENSE.md</licenseUrl>
         <projectUrl>https://github.com/akamud/MaterialSpinner-Xamarin</projectUrl>
+        <iconUrl>https://raw.githubusercontent.com/akamud/MaterialSpinner-Xamarin/master/art/Icon.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Xamarin Bindings for MaterialSpinner project.
 
