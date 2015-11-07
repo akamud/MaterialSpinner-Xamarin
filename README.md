@@ -54,3 +54,6 @@ spinner.Error = null;
 ```
 
 You can choose to have a scrolling animation or to set the error message on multiple lines with the `ms_multiline` attribute in XML (default is true).
+
+## License
+[MIT License](https://github.com/akamud/MaterialSpinner-Xamarin/blob/master/LICENSE.md)
