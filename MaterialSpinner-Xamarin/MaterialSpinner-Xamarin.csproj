@@ -11,8 +11,8 @@
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
     <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
     <AssemblyName>MaterialSpinner</AssemblyName>
-    <TargetFrameworkVersion>v5.0</TargetFrameworkVersion>
-    <ReleaseVersion>1.1.0</ReleaseVersion>
+    <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
+    <ReleaseVersion>1.1.1</ReleaseVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -57,6 +57,6 @@
     <ReferenceJar Include="Jars\appcompat-v7-22.0.0.aar" />
   </ItemGroup>
   <ItemGroup>
-    <LibraryProjectZip Include="material-spinner-1.1.0.aar" />
+    <LibraryProjectZip Include="Jars\material-spinner-1.1.1.aar" />
   </ItemGroup>
 </Project>
