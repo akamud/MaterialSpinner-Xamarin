@@ -52,7 +52,7 @@
       <HintPath>..\packages\Xamarin.Android.Support.v7.AppCompat.22.1.1\lib\MonoAndroid403\Xamarin.Android.Support.v7.AppCompat.dll</HintPath>
     </Reference>
     <Reference Include="MaterialSpinner">
-      <HintPath>..\packages\MaterialSpinner-Xamarin.1.1.0\lib\MonoAndroid\MaterialSpinner.dll</HintPath>
+      <HintPath>..\packages\MaterialSpinner-Xamarin.1.1.1\lib\MonoAndroid\MaterialSpinner.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
